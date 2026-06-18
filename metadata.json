@@ -1,0 +1,6 @@
+{
+  "name": "Extreme Admin Dashboard",
+  "description": "High-end private Admin Dashboard for monitoring user profiles, checking ledger logs, and managing withdrawal payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
